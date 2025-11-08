@@ -58,9 +58,8 @@ python manage.py db upgrade
 4. **Frontend setup**
 
 ```bash
-cd frontend
 npm install
-npm start
+npm run dev
 ```
 
 ---
